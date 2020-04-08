@@ -15,7 +15,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>maprdb-spring-data-sample</name>
-	<description>This is a sample application to demonstrate the usage of maprdb-spring-data-saple</description>
+	<description>This is a sample application to demonstrate the usage of maprdb-spring-data.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
